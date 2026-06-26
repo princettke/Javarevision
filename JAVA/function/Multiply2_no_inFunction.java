@@ -1,3 +1,4 @@
+package function;
 import java.util.*;
 public class Multiply2_no_inFunction {
   public static int Multi(int a , int b){

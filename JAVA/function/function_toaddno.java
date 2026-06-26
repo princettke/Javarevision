@@ -1,3 +1,4 @@
+package function;
 // make function to add  2 numbers and return the sum
 import java.util.*;
 public class function_toaddno {

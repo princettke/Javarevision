@@ -1,4 +1,4 @@
-package Basic;
+package Switchcase;
 import java.util.Scanner;
 
 class calculator {

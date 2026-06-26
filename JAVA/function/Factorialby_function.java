@@ -1,3 +1,4 @@
+package function; 
 import java.util.*;
 public class Factorialby_function {
   public static void printfactorial(int n){

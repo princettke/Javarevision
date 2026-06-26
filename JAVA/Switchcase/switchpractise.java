@@ -1,3 +1,4 @@
+package Switchcase;
 import java.util.*;
 class switchpractise{
   public static void main(String[] args){

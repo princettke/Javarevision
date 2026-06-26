@@ -1,3 +1,4 @@
+package loops;
 public class whileloops {
   public static void main (String [] args){
     int i=0;

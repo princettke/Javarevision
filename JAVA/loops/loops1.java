@@ -1,3 +1,4 @@
+package loops;
 import java.util.*;
 class loops1 {
   public static void main(String[] args){
