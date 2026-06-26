@@ -1,3 +1,4 @@
+package Basic;
 import java.util.Scanner;
 class variable {
   public static void main(String[] args) {
